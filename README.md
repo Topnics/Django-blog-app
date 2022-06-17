@@ -1,2 +1,2 @@
-# Django-blog-app
+# Django-Models
 Django project 1
